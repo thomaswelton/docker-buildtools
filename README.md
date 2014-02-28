@@ -1,3 +1,3 @@
 # Ubuntu Build Tools Image
 
-Node & Ruby
+Node, with gulp and bower.
