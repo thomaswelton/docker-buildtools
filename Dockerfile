@@ -1,4 +1,4 @@
-FROM thomaswelton.com:5000/node
+FROM thomaswelton/node
 
 MAINTAINER thomaswelton
 
